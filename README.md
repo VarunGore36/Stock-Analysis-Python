@@ -28,26 +28,4 @@ Please Note :- *(Default ticker: `AAPL` — Apple Inc.)*  , Can be obtained for 
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
-Install required libraries:
-pip install pandas yfinance matplotlib seaborn
-
-Launch Jupyter Notebook:
-jupyter notebook
-
-Open the notebook file and run the cells to see the results.
-📦 Requirements
-Python 3.8+
-pandas
-yfinance
-matplotlib
-seaborn
-
-📝 License
-
-This project is open-source and free to use for learning and research purposes.
+**This project is open-source and free to use for learning and research purposes.**
