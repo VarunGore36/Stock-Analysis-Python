@@ -1,0 +1,5 @@
+Python in Jupyter 
+pandas 
+yfinance Library 
+matplotlib
+seaborn
